@@ -1,6 +1,6 @@
 @font-face {
   font-family: "roadworthy";
-  src: url(/font/roadworthy.otf) format("opentype");
+  src: url(/roadworthy.otf) format("opentype");
 }
 
 :root {
